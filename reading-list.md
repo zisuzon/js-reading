@@ -6,6 +6,8 @@ I am creating this list of urls of important and good article on various javascr
 
 - [JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b)
 
+- [JavaScript type coercion](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
+
 ## PROMISE
 
 - [Understanding Promise - Medium](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
