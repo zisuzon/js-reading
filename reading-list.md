@@ -12,6 +12,8 @@ I am creating this list of urls of important and good article on various javascr
 
 - [JavaScript type coercion](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
 
+- [Data Structures In Javascript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+
 ## PROMISE
 
 - [Understanding Promise - Medium](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
