@@ -5,6 +5,7 @@ I am creating this list of urls of important and good article on various javascr
 ## BASICS
 
 - [WTF Javascript](https://github.com/denysdovhan/wtfjs)
+- [JS Encapsulation (scope, clouser) ](https://www.intertech.com/Blog/encapsulation-in-javascript/)
 
 ## DATA STRUCTURE
 
